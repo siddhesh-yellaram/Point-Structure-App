@@ -1,0 +1,7 @@
+D:\test\.NET\PointStructureApp\bin\Debug\PointStructureApp.exe.config
+D:\test\.NET\PointStructureApp\bin\Debug\PointStructureApp.exe
+D:\test\.NET\PointStructureApp\bin\Debug\PointStructureApp.pdb
+D:\test\.NET\PointStructureApp\obj\Debug\PointStructureApp.csproj.AssemblyReference.cache
+D:\test\.NET\PointStructureApp\obj\Debug\PointStructureApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\PointStructureApp\obj\Debug\PointStructureApp.exe
+D:\test\.NET\PointStructureApp\obj\Debug\PointStructureApp.pdb
